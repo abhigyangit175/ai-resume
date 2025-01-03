@@ -27,7 +27,7 @@
 
 .rsw-ce ol {
   list-style: decimal;
-  padding-left: 2em;
+  padding-left: 3em;
 }
 @layer base {
   :root {
